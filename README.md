@@ -3,8 +3,8 @@
 **This is a fully functional stripped down version of [Quviq][quviq]
 [QuickCheck][flyer].**
 
-**QuickCheck Mini** is free of charge ~~and the latest version [can be
-downloaded from Quviq's homepage][eqcmini].~~ The Mini version of
+**QuickCheck Mini** is free of charge and the latest version [can be
+downloaded from Quviq's homepage][eqcmini]. The Mini version of
 QuickCheck is intended to support individuals and open source projects
 in obtaining a better code quality without having to invest in the
 full version of QuickCheck.
